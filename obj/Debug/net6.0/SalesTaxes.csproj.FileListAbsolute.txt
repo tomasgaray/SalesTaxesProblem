@@ -1,0 +1,15 @@
+C:\Users\Tomas Garay\Desktop\Test\SalesTaxes\SalesTaxes\bin\Debug\net6.0\SalesTaxes.exe
+C:\Users\Tomas Garay\Desktop\Test\SalesTaxes\SalesTaxes\bin\Debug\net6.0\SalesTaxes.deps.json
+C:\Users\Tomas Garay\Desktop\Test\SalesTaxes\SalesTaxes\bin\Debug\net6.0\SalesTaxes.runtimeconfig.json
+C:\Users\Tomas Garay\Desktop\Test\SalesTaxes\SalesTaxes\bin\Debug\net6.0\SalesTaxes.dll
+C:\Users\Tomas Garay\Desktop\Test\SalesTaxes\SalesTaxes\bin\Debug\net6.0\SalesTaxes.pdb
+C:\Users\Tomas Garay\Desktop\Test\SalesTaxes\SalesTaxes\obj\Debug\net6.0\SalesTaxes.csproj.AssemblyReference.cache
+C:\Users\Tomas Garay\Desktop\Test\SalesTaxes\SalesTaxes\obj\Debug\net6.0\SalesTaxes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tomas Garay\Desktop\Test\SalesTaxes\SalesTaxes\obj\Debug\net6.0\SalesTaxes.AssemblyInfoInputs.cache
+C:\Users\Tomas Garay\Desktop\Test\SalesTaxes\SalesTaxes\obj\Debug\net6.0\SalesTaxes.AssemblyInfo.cs
+C:\Users\Tomas Garay\Desktop\Test\SalesTaxes\SalesTaxes\obj\Debug\net6.0\SalesTaxes.csproj.CoreCompileInputs.cache
+C:\Users\Tomas Garay\Desktop\Test\SalesTaxes\SalesTaxes\obj\Debug\net6.0\SalesTaxes.dll
+C:\Users\Tomas Garay\Desktop\Test\SalesTaxes\SalesTaxes\obj\Debug\net6.0\refint\SalesTaxes.dll
+C:\Users\Tomas Garay\Desktop\Test\SalesTaxes\SalesTaxes\obj\Debug\net6.0\SalesTaxes.pdb
+C:\Users\Tomas Garay\Desktop\Test\SalesTaxes\SalesTaxes\obj\Debug\net6.0\SalesTaxes.genruntimeconfig.cache
+C:\Users\Tomas Garay\Desktop\Test\SalesTaxes\SalesTaxes\obj\Debug\net6.0\ref\SalesTaxes.dll
